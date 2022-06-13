@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
 
 * {
   box-sizing: border-box;
@@ -85,7 +85,6 @@ p {
   padding: 0;
   padding-top: 10rem;
   padding-left: 3rem;
-  /* align-items: center; */
 }
 
 .main-page {
@@ -111,7 +110,7 @@ ion-icon {
   font-size: 24px;
 }
 
-.back-shape{
+.back-shape {
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
